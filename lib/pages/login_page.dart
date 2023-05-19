@@ -27,7 +27,7 @@ class LoginPage extends StatelessWidget {
 
               // logo
               const Icon(
-                Icons.lock,
+                Icons.account_circle_rounded,
                 color: Color.fromARGB(255, 5, 79, 236),
                 size: 100,
               ),
